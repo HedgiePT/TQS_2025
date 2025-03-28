@@ -1,0 +1,4 @@
+Lab 7.1, alínea d)
+=========================================
+
+Foi feito apenas um pedido, que demorou 143.98 ms a executar. O pedido foi bem sucedido.
